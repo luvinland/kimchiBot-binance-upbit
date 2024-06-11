@@ -2,7 +2,7 @@
 kimchiBot-binance-upbit
 
 ## Video
-<a href="https://drive.google.com/file/d/1q4GGGveNLswus40wUX_bXm1ALCaFbcWR/view?usp=sharing">![kimchiBot](https://github.com/luvinland/kimchiBot-binance-upbit/assets/26864945/05832605-1076-4b0b-afce-4825a69f7d2e)</a>
+<a href="https://youtu.be/8qhIq2_mBtE?si=-u_IJkPtasfZyxls">![kimchiBot](https://github.com/luvinland/kimchiBot-binance-upbit/assets/26864945/05832605-1076-4b0b-afce-4825a69f7d2e)</a>
 
 ## iPhone notify
 ![iPhone notify](https://github.com/luvinland/kimchiBot-binance-upbit/assets/26864945/a9f800ac-0a54-4b69-be21-1433506aa463)
